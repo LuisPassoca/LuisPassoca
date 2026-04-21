@@ -1,7 +1,7 @@
 ## Hello there, I'm Luís! 👋
 - 📘 I am an **undergraduate technology student**, focused on becoming a **fullstack developer**, with great interest in **UX & UI design**.  
-- 🛠️ I enjoy designing and building applications with various technologies, and I am always looking to learn something new! 
-- 🎮 I am also quite interested in **game development and design**.
+- 🛠️ I enjoy **designing** and **building applications** with various technologies, and I am always looking to learn something new! 
+- 🎮 I am also quite interested in **game development** and **design**.
 
 ## Skills 📖
 
